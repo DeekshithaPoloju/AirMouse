@@ -12,4 +12,3 @@ SMOOTHENING = 20
 
 # Screen Resolution
 SCREEN_WIDTH, SCREEN_HEIGHT = pyautogui.size()
-SCREEN_WIDTH, SCREEN_HEIGHT = pyautogui.size()
