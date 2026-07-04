@@ -90,4 +90,3 @@ python main.py
 ## 👨‍💻 Author
 
 Developed using Python, OpenCV, MediaPipe, and CVZone.
-Developed using Python, OpenCV, MediaPipe, and CVZone.
