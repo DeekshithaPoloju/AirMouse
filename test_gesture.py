@@ -6,4 +6,3 @@ point1 = [100, 200, 0]
 point2 = [150, 200, 0]
 
 print("Distance =", gesture.distance(point1, point2))
-.
