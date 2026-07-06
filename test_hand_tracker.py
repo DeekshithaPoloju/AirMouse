@@ -33,7 +33,7 @@ while True:
     # Show the webcam
     cv2.imshow("Hand Tracker Test", img)
 
-    # Press Q to quitt
+    # Press Q to quit
     if cv2.waitKey(1) & 0xFF == ord("q"):
         break
 
