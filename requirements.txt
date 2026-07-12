@@ -3,3 +3,4 @@ cvzone
 mediapipe
 pyautogui
 numpy
+numpy
