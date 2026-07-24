@@ -10,4 +10,3 @@ print("Distance =", gesture.distance(point1, point2))
 3
 3
 3
-3
